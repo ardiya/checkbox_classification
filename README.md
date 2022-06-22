@@ -26,9 +26,11 @@ If you're lazy to install dependencies, you can also run the following for infer
 ```
 
 The image below shows the comparison of the classification loss, triplet loss, and total loss for reference of the impact of multi-task loss.
+
 ![loss graph](readme_images/training_loss.png)
 
 The image below shows the validation accuracy over the time
+
 ![validation accuracy](readme_images/val.png)
 
 # Inference
@@ -42,6 +44,7 @@ If you're lazy to install dependencies, you can also run the following for infer
 ./docker-inference.py /path/to/image.jpg
 ```
 for example, by running `./docker-inference.py data/val/checked/0.png`, you would be getting result similar to the image below
+
 ![](readme_images/docker-inference.png)
 
 *NOTE: The docker image used this repo can be found in https://hub.docker.com/repository/docker/ardiya/checkbox_classification*
