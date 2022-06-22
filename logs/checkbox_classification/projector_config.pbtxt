@@ -1,0 +1,310 @@
+embeddings {
+  tensor_name: "default:00000"
+  metadata_path: "00000/default/metadata.tsv"
+  sprite {
+    image_path: "00000/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00000/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00033"
+  metadata_path: "00033/default/metadata.tsv"
+  sprite {
+    image_path: "00033/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00033/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00066"
+  metadata_path: "00066/default/metadata.tsv"
+  sprite {
+    image_path: "00066/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00066/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00099"
+  metadata_path: "00099/default/metadata.tsv"
+  sprite {
+    image_path: "00099/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00099/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00132"
+  metadata_path: "00132/default/metadata.tsv"
+  sprite {
+    image_path: "00132/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00132/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00165"
+  metadata_path: "00165/default/metadata.tsv"
+  sprite {
+    image_path: "00165/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00165/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00198"
+  metadata_path: "00198/default/metadata.tsv"
+  sprite {
+    image_path: "00198/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00198/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00231"
+  metadata_path: "00231/default/metadata.tsv"
+  sprite {
+    image_path: "00231/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00231/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00330"
+  metadata_path: "00330/default/metadata.tsv"
+  sprite {
+    image_path: "00330/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00330/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00462"
+  metadata_path: "00462/default/metadata.tsv"
+  sprite {
+    image_path: "00462/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00462/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00528"
+  metadata_path: "00528/default/metadata.tsv"
+  sprite {
+    image_path: "00528/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00528/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00627"
+  metadata_path: "00627/default/metadata.tsv"
+  sprite {
+    image_path: "00627/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00627/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00660"
+  metadata_path: "00660/default/metadata.tsv"
+  sprite {
+    image_path: "00660/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00660/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00693"
+  metadata_path: "00693/default/metadata.tsv"
+  sprite {
+    image_path: "00693/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00693/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00792"
+  metadata_path: "00792/default/metadata.tsv"
+  sprite {
+    image_path: "00792/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00792/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:00957"
+  metadata_path: "00957/default/metadata.tsv"
+  sprite {
+    image_path: "00957/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "00957/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:01254"
+  metadata_path: "01254/default/metadata.tsv"
+  sprite {
+    image_path: "01254/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "01254/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:01320"
+  metadata_path: "01320/default/metadata.tsv"
+  sprite {
+    image_path: "01320/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "01320/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:01881"
+  metadata_path: "01881/default/metadata.tsv"
+  sprite {
+    image_path: "01881/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "01881/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:01914"
+  metadata_path: "01914/default/metadata.tsv"
+  sprite {
+    image_path: "01914/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "01914/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:02013"
+  metadata_path: "02013/default/metadata.tsv"
+  sprite {
+    image_path: "02013/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "02013/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:02277"
+  metadata_path: "02277/default/metadata.tsv"
+  sprite {
+    image_path: "02277/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "02277/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:02640"
+  metadata_path: "02640/default/metadata.tsv"
+  sprite {
+    image_path: "02640/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "02640/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:02772"
+  metadata_path: "02772/default/metadata.tsv"
+  sprite {
+    image_path: "02772/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "02772/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:03003"
+  metadata_path: "03003/default/metadata.tsv"
+  sprite {
+    image_path: "03003/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "03003/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:03300"
+  metadata_path: "03300/default/metadata.tsv"
+  sprite {
+    image_path: "03300/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "03300/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:03828"
+  metadata_path: "03828/default/metadata.tsv"
+  sprite {
+    image_path: "03828/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "03828/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:04224"
+  metadata_path: "04224/default/metadata.tsv"
+  sprite {
+    image_path: "04224/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "04224/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:04653"
+  metadata_path: "04653/default/metadata.tsv"
+  sprite {
+    image_path: "04653/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "04653/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:08052"
+  metadata_path: "08052/default/metadata.tsv"
+  sprite {
+    image_path: "08052/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "08052/default/tensors.tsv"
+}
+embeddings {
+  tensor_name: "default:08613"
+  metadata_path: "08613/default/metadata.tsv"
+  sprite {
+    image_path: "08613/default/sprite.png"
+    single_image_dim: 50
+    single_image_dim: 50
+  }
+  tensor_path: "08613/default/tensors.tsv"
+}

@@ -1,0 +1,14 @@
+n_classes: 3
+experiment_name: checkbox_classification
+save:
+  dir: "model"
+  filename: "best_model.pt"
+train:
+  images_path: "data/train"
+  epoch: 300
+  batch_size: 16
+  weight_decay: 0.00001
+  weight_cls: 1.0
+  weight_triplet: 1.0
+val:
+  images_path: "data/val"

@@ -1,0 +1,4 @@
+albumentations
+tensorboard
+torch
+torchvision
