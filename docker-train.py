@@ -34,7 +34,7 @@ if __name__ == "__main__":
     ]
     yaml_cfg["services"]["checkbox_classification"][
         "command"
-    ] = f"python main_inference.py config/{ args.cfg }"
+    ] = f"python main_train.py config/{ args.cfg }"
 
     with open("docker-compose-train.yaml", "w") as fp:
         yaml.safe_dump(yaml_cfg, fp)
