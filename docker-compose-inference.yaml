@@ -1,7 +1,0 @@
-services:
-  checkbox_classification:
-    command: python main_inference.py /root/checkbox_classification/data/0.png
-    image: ardiya/checkbox_classification:latest
-    volumes:
-    - /home/ardiya/Workspace/checkbox_classification/data/val/checked/0.png:/root/checkbox_classification/data/0.png
-version: '3'
