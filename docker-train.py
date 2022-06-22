@@ -2,7 +2,6 @@
 """
 Wrapper to docker-compose to run training
 """
-from genericpath import exists
 import yaml
 import argparse
 from pathlib import Path
@@ -34,7 +33,7 @@ if __name__ == "__main__":
     ]
     yaml_cfg["services"]["checkbox_classification"][
         "command"
-    ] = f"python main_train.py config/{ args.cfg }"
+    ] = f"python -u main_train.py config/{ args.cfg }"
 
     with open("docker-compose-train.yaml", "w") as fp:
         yaml.safe_dump(yaml_cfg, fp)

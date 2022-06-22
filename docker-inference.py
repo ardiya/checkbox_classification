@@ -2,7 +2,6 @@
 """
 Wrapper to docker-compose to run inference on single image
 """
-from genericpath import exists
 import yaml
 import argparse
 from pathlib import Path
@@ -30,7 +29,7 @@ if __name__ == "__main__":
 
     yaml_cfg = yaml.safe_load(yaml_template)
     yaml_cfg["services"]["checkbox_classification"]["volumes"] = [f"{image_path.absolute()}:{docker_path}"]
-    yaml_cfg["services"]["checkbox_classification"]["command"] = f"python main_inference.py {docker_path}"
+    yaml_cfg["services"]["checkbox_classification"]["command"] = f"python -u main_inference.py {docker_path}"
     with open("docker-compose-inference.yaml", "w") as fp:
         yaml.safe_dump(yaml_cfg, fp)
 
